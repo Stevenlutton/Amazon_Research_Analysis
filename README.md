@@ -29,3 +29,11 @@ I started by examining how many reviews each product had. Product 21A had the mo
 Here is an example of where you find the review star rating and rankings for a product.
 
 ![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/Ratings_and_rankings.png)
+
+For all of the products in this analysis, Amazon has them ranked in a category called: “Grocery & Gourmet Food”. Amazon then has them listed in different subcategories. 
+14/24 of the subcategories fall under “Snack Food Gifts”
+3/24 don’t have information available
+2/24 fall under “Snack Nuts & Seeds”
+and for “Whole Grain Bars”, “Cracker Assortments”, “Food Assortment & Variety Gifts”, “Granola Bars”, and “High Protein Bars” there are 1 each. 
+
+![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/Pie_chart.png) ![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/Pie_legend.png)
