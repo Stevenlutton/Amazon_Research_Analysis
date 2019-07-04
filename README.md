@@ -3,7 +3,7 @@ Amazon's Marketplace Research
 
 My objective was to gain some insight into Amazon's marketplace. With the importance of office culture becoming more of a priority, I decided to investigate office snack boxes. With a search for "office snack boxes", I gathered 24 different products that Amazon offers. I entered the data from Amazon into a spreadsheet and then loaded that into Tableau to visualize what I found.
 
-While the results may differ with time you can see what appears with the search "office snack boxes" [here](https://www.amazon.com/s?k=office+snack+boxes&ref=nb_sb_noss)
+While the results may differ with time you can see what appears with the search "office snack boxes" [here.](https://www.amazon.com/s?k=office+snack+boxes&ref=nb_sb_noss)
 
 My end goal was to find some indicators that would help me narrow down a sweet spot to position my product–if I were to sell office snack boxes through Amazon. 
 
