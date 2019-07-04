@@ -26,3 +26,6 @@ I started by examining how many reviews each product had. Product 21A had the mo
 
 ![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/%23ofReviews.png)
 
+Here is an example of where you find the ratings and rankings for a product.
+
+![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/Ratings_and_rankings.png)
