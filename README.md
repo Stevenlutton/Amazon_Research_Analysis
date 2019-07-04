@@ -11,7 +11,9 @@ I found some interesting takeaways from my research that would give a marketing 
 
 One thing that I would like to point out here is the categories and subcategories.
 Here are some links explaining how to choose your categories and subcategories for your product. 
+
 [Link 1](https://sellercentral.amazon.com/gp/help/external/G23531) 
+
 [Link 2](https://sellercentral.amazon.com/gp/help/external/10471?language=en_US&ref=efph_10471_cont_G23531)
 
 **_I believe this is a very important–if not the most important decision for a company entering Amazon’s marketplace_**
