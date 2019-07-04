@@ -52,7 +52,7 @@ I sorted the data to show the top 10 highest ranked in the “Grocery & Gourmet 
 
 ![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/Top10.png)
 
-## Overall Rankings
+### Overall Rankings
 
 I was not surprised to find that the products that have a higher ranking within the “Grocery &Gourmet Food” category also tend to have a higher ranking in whichever subcategory Amazon puts them in. Visualizing this helped me to quickly determine which products were not ranked very high compared to the rest of the products. (21A, 12A, 10A, 20A, 16A, 23A) 
 
