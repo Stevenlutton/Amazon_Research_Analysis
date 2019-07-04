@@ -55,7 +55,9 @@ I sorted the data to show the top 10 highest ranked in the “Grocery & Gourmet 
 ## Overall Rankings
 
 I was not surprised to find that the products that have a higher ranking within the “Grocery &Gourmet Food” category also tend to have a higher ranking in whichever subcategory Amazon puts them in. Visualizing this helped me to quickly determine which products were not ranked very high compared to the rest of the products. (21A, 12A, 10A, 20A, 16A, 23A) 
+
 ![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/First_chart.png)![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/First_chart_legend.png)
 
 Alternatively, when I narrowed the filters down to include only the products within the top 30,000 for “Grocery & Gourmet Foods” we can determine some products that are doing well according to the rankings, and are all almost in the top 100 of their respective subcategory. (2A, 4A, 5A, 6A, 7A, 15A, 17A, 9A, and 25A) Most of these fall under the “Snack Food Gifts” category, however, it is important to note the success of 25A and 7A, which fall under the subcategories “Whole Grain Bars” and “High Protein Bars, respectively.
+
 ![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/Second_chart.png)![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/Second_chart_legend.png)
