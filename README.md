@@ -47,3 +47,8 @@ Product 21A (Variety Fun Office Snacks (160 Count) - Bulk Assortment - Over 15 P
 Higher # of Reviews does not equal higher rank, however. 
 
 **Product 21A scored 24th out of 24 in Amazon’s “Grocery & Gourmet Foods” category with a ranking of 214,562.**
+
+I sorted the data to show the top 10 highest ranked in the “Grocery & Gourmet Foods” category since all of the products and their subcategories fell under that umbrella. The first thing that I found interesting was the highest ranked product, 2A, had the lowest star review rating (3.6/5) out of all 24 products. This shows me that there is no direct correlation between how consumers review the product and how Amazon ranks them within this category. 
+
+![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/Top10.png)
+
