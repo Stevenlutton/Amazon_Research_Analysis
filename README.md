@@ -9,9 +9,11 @@ My end goal was to find some indicators that would help me narrow down a sweet s
 
 I found some interesting takeaways from my research that would give a marketing company an edge in positioning their office snack box product in the Amazon marketplace. One of the first discoveries that came to me was how Amazon ranks their products. I found that there is no correlation between the customer review rating and where Amazon ranks the product within a certain category. There is also no correlation between the number of reviews and a product’s rank. I have charts below showing how I came to these conclusions. 
 
-One thing that I would like to point out here is the categories and subcategories. Here (https://sellercentral.amazon.com/gp/help/external/G23531) (https://sellercentral.amazon.com/gp/help/external/10471?language=en_US&ref=efph_10471_cont_G23531)
-are some links explaining how to choose your categories and subcategories for your product. 
- 
+One thing that I would like to point out here is the categories and subcategories.
+Here are some links explaining how to choose your categories and subcategories for your product. 
+[Link 1](https://sellercentral.amazon.com/gp/help/external/G23531) 
+[Link 2](https://sellercentral.amazon.com/gp/help/external/10471?language=en_US&ref=efph_10471_cont_G23531)
+
 **_I believe this is a very important–if not the most important decision for a company entering Amazon’s marketplace_**
 
 
