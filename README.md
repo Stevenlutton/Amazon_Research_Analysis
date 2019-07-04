@@ -22,7 +22,7 @@ When I was adding the data into the spreadsheet I wanted to create my own unique
 
 ### Product 21A - “Cracker Assortments”
 
-I started by examining how many reviews each product had. Product 21A had the most reviews by a very large margin. Product 21A had 1,723 reviews while product 8A had the second most reviews with 422. The average number of reviews for all of the products was 218.5. 
+I started by examining how many reviews each product had. Product 21A had the most reviews by a very large margin. Product 21A had 2,723 reviews while product 8A had the second most reviews with 422. The average number of reviews for all of the products was 218.5. 
 
 ![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/%23ofReviews.png)
 
