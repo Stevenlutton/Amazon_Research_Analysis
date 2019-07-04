@@ -18,7 +18,7 @@ Here are some links explaining how to choose your categories and subcategories f
 
 **_I believe this is a very important–if not the most important decision for a company entering Amazon’s marketplace_**
 
-When I was adding the data into the spreadsheet I wanted to create my own unique ID for every product to make it easier to reference on my charts and graphs. You can access and download the spreadsheet in the data folder or by clicking [here](https://github.com/Stevenlutton/AmazonResearch/blob/master/Data/My_Amazon_Market_Research.xlsx)
+When I was adding the data into the spreadsheet, I wanted to create my own unique ID for every product to make it easier to reference on my charts and graphs. You can access and download the spreadsheet in the data folder or by clicking [here](https://github.com/Stevenlutton/AmazonResearch/blob/master/Data/My_Amazon_Market_Research.xlsx)
 
 ### Product 21A - “Cracker Assortments”
 
