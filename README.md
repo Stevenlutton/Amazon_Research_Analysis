@@ -41,3 +41,9 @@ For all of the products in this analysis, Amazon has them ranked in a category c
 -and for “Whole Grain Bars”, “Cracker Assortments”, “Food Assortment & Variety Gifts”, “Granola Bars”, and “High Protein Bars” there are 1 each. 
 
 ![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/Pie_chart.png) ![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/Pie_legend.png)
+
+Product 21A (Variety Fun Office Snacks (160 Count) - Bulk Assortment - Over 15 Pounds of Chips Cookies & Candy) was the product labeled as “Cracker Assortments” which I found to be interesting. I’m curious if this specific product gained so much more attention than any of the others I looked at because of its specific category. 
+
+Higher # of Reviews does not equal higher rank, however. 
+
+**Product 21A scored 24th out of 24 in Amazon’s “Grocery & Gourmet Foods” category with a ranking of 214,562.**
