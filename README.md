@@ -71,3 +71,11 @@ As I mentioned before, I wanted to do an analysis using only the existing produc
 Again, I filtered to see what would be included within the top 30,000 for "Grocery & Gourmet Foods"  and found that only 7A and 17A remained. 7A is in the subcategory "Whole Grain Bars" and 17A is in the subcategory "Snack Food Gifts" with their price per item being $0.61 and $0.50, respectively. In the final pictures you can see where price per item comes into play. 
 
 ![alt text](https://github.com/Stevenlutton/Amazon_Research_Analysis/blob/master/Images/60%2BTop30k.png) ![alt text](https://github.com/Stevenlutton/Amazon_Research_Analysis/blob/master/Images/First_chart_legend.png)
+
+The final area that I wanted to investigate was the price per item. When looking at the products with a item count over 60 I found that they were all between a 3.9 and a 4.6 in customer review ratings. Aside from product 10A, priced at $1.29 per item, they were all between $0.50 and $0.62 per item. 
+
+![alt text](https://github.com/Stevenlutton/Amazon_Research_Analysis/blob/master/Images/PricePerItem.png) ![alt text](https://github.com/Stevenlutton/Amazon_Research_Analysis/blob/master/Images/PricePerItemLegend.png)
+
+## In Conclusion
+
+From the findings that I've gathered from my analysis, I have found a sweet spot to position a healthy office snack box on the Amazon marketplace. I would do my research on the subcategories within "Grocery & Gourmet Foods" and when I decided on my category I would be sure to include the word "healthy" within the first couple of words in my product name. This was a trend that I noticed among almost all of the products I researched in the "healthy office snacks" search. I would try to keep my price per item as close to $0.60 as I could depending on the snacks that I was offering and the subcategory that I chose. 
