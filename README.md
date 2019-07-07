@@ -68,6 +68,6 @@ As I mentioned before, I wanted to do an analysis using only the existing produc
 
 ![alt text](https://github.com/Stevenlutton/Amazon_Research_Analysis/blob/master/Images/60%2BChart.png) ![alt text](https://github.com/Stevenlutton/Amazon_Research_Analysis/blob/master/Images/60%2BChart_Legend.png)
 
-Again, I filtered to see what would be included within the top 30,000 for "Grocery & Gourmet Foods"  and found that only 7A and 17A remained. 7A is in the subcategory "Whole Grain Bars" and 17A is in the subcategory "Snack Food Gifts" and their price per item being $0.61 and $0.50, respectively. In the final pictures you can see where price per item comes into play. 
+Again, I filtered to see what would be included within the top 30,000 for "Grocery & Gourmet Foods"  and found that only 7A and 17A remained. 7A is in the subcategory "Whole Grain Bars" and 17A is in the subcategory "Snack Food Gifts" with their price per item being $0.61 and $0.50, respectively. In the final pictures you can see where price per item comes into play. 
 
 ![alt text](https://github.com/Stevenlutton/Amazon_Research_Analysis/blob/master/Images/60%2BTop30k.png) ![alt text](https://github.com/Stevenlutton/Amazon_Research_Analysis/blob/master/Images/First_chart_legend.png)
