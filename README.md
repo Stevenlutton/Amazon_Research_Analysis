@@ -5,7 +5,7 @@ My objective was to gain some insight into Amazon's marketplace. With the import
 
 While the results may differ with time you can see what appears with the search "healthy office snacks" [here.](https://www.amazon.com/s?k=healthy+office+snacks&ref=nb_sb_noss_1)
 
-My end goal was to find some indicators that would help me narrow down a sweet spot to position my product–if I were to sell office snack boxes through Amazon. 
+My end goal was to find some indicators that would help me narrow down a sweet spot to position my product–if I were to sell office snack boxes through Amazon. With that in mind, I later decided to filter the products I was analyzing to only those that had a product count over 60. If I were to sell office snacks to an office setting it wouldn't be as logical to sell less than 60.
 
 I found some interesting takeaways from my research that would give a marketing company an edge in positioning their office snack box product in the Amazon marketplace. One of the first discoveries that came to me was how Amazon ranks their products. I found that there is no correlation between the customer review rating and where Amazon ranks the product within a certain category. There is also no correlation between the number of reviews and a product’s rank. I have charts below showing how I came to these conclusions. 
 
@@ -65,3 +65,4 @@ Alternatively, when I narrowed the filters down to include only the products wit
 ![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/Second_chart.png)![alt text](https://github.com/Stevenlutton/AmazonResearch/blob/master/Images/Second_chart_legend.png)
 
 ### 60+
+
