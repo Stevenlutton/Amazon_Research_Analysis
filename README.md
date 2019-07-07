@@ -18,8 +18,6 @@ Here are some links explaining how to choose your categories and subcategories f
 
 **_I believe this is a very important–if not the most important decision for a company entering Amazon’s marketplace_**
 
-Towards the end of my project you will see that I filtered to only the products 
-
 When I was adding the data into the spreadsheet, I wanted to create my own unique ID for every product to make it easier to reference on my charts and graphs. You can access and download the spreadsheet in the data folder or by clicking [here](https://github.com/Stevenlutton/AmazonResearch/blob/master/Data/My_Amazon_Market_Research.xlsx)
 
 ### Product 21A - “Cracker Assortments”
@@ -66,3 +64,6 @@ Alternatively, when I narrowed the filters down to include only the products wit
 
 ### 60+
 
+As I mentioned before, I wanted to do an analysis using only the existing products that were selling more than 60 snacks in their box. 
+
+![alt text](https://github.com/Stevenlutton/Amazon_Research_Analysis/blob/master/Images/60%2BChart.png) ![alt text](https://github.com/Stevenlutton/Amazon_Research_Analysis/blob/master/Images/60%2BChart_Legend.png)
